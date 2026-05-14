@@ -19,4 +19,4 @@ This project was developed as part of my App Development 1 module, demonstrating
 
 
 
-*Academic Project - Software Engineering NQF Level 6*
+*Academic Project: Module: App Development - Software Engineering NQF Level 6*
