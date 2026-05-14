@@ -17,9 +17,6 @@ A Windows Forms application built with C# and .NET for managing library operatio
 ## Project Overview
 This project was developed as part of my App Development 1 module, demonstrating core software engineering principles and practical application development skills.
 
-## Getting Started
-1. Clone this repository
-2. Open the solution in Visual Studio
-3. Build and run the application
+
 
 *Academic Project - Software Engineering NQF Level 6*
